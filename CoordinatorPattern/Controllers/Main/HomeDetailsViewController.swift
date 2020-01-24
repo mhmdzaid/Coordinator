@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  HomeDetailsViewController.swift
 //  CoordinatorPattern
 //
 //  Created by Mac on 1/22/20.
@@ -8,13 +8,16 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+public class HomeDetailsViewController: BaseViewController {
 
-    override func viewDidLoad() {
+    override public func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
 
+    }
+    
+    
+    
+
+ 
 
 }
-
